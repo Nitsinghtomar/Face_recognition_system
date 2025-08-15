@@ -221,6 +221,4 @@ python webcam.py
 - **Image quality**: Clear, well-lit faces preferred
 - **Face size**: At least 100x100 pixels recommended
 
-## Acknowledgments
-- Appreciation to the dlib library developers for providing robust facial recognition capabilities
-- Recognition to the machine learning community for advancing computer vision research and development
+
